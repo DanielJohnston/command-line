@@ -1,0 +1,2 @@
+mv source destination
+Moves a file from its source location and name to a destination location and name. Can be used for renaming files. May be usable with multiple sources.
