@@ -1,0 +1,5 @@
+wc -lwc source
+Returns the wordcount of the source input. Flags l for no. of lines, w for no. of words, c for no. of chars.
+E.g.
+wc -l `env`
+Returns number of lines in the list of environmental variables
