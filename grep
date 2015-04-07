@@ -1,0 +1,5 @@
+grep regex source
+Regex parser - returns all instances in a source that match the given regex.
+Examples:
+grep ^T.* `env`
+returns all lines from environmental variables that start with T
